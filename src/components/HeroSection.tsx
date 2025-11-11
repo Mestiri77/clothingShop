@@ -270,7 +270,7 @@ export function HeroSection() {
               onClick={() => scrollToSection('lookbook')}
               size="lg" 
               variant="outline" 
-              className="border-2 border-white text-white hover:bg-white hover:text-black px-12 py-8 text-base tracking-wider backdrop-blur-sm transition-all duration-300"
+              className="border-2 border-white text-white hover:bg-white text-black px-12 py-8 text-base tracking-wider backdrop-blur-sm transition-all duration-300"
             >
               VIEW LOOKBOOK
             </Button>
